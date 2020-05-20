@@ -64,6 +64,16 @@
                 "command": "cursorWordPartRight",
                 "when": "textInputFocus"
             }
+        ],
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "csharp",
+                "path": "./snippets/snippets.code-snippets"
+            }
         ]
     } 
 }

@@ -1,0 +1,44 @@
+{
+    "If snippet": {
+        "prefix": "!if",
+        "body": [
+            "if(${1:Statement}) {",
+            "$0",
+            "}"
+        ]
+    },
+    "For snippet": {
+        "prefix": "!for",
+        "body": [
+            "for(int i = 0; i < ${1:Length}; i++) {",
+            "$0",
+            "}"
+        ]
+    },
+    "IfElse snippet": {
+        "prefix": "!ifElse",
+        "body": [
+            "if(${1:Statement}) {",
+            "${2:Action}",
+            "} else {",
+            "${0:Another action}",
+            "}"
+        ]
+    },
+    "While snippet": {
+        "prefix": "!while",
+        "body": [
+            "while(${1:Statement}) {",
+            "${0:Action}",
+            "}"
+        ]
+    },
+    "DoWhile snippet": {
+        "prefix": "!doWhile",
+        "body": [
+            "do {",
+            "${0:Action}",
+            "} while(${1:Statement})"
+        ]
+    }
+}
