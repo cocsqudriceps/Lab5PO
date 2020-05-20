@@ -10,6 +10,13 @@
         "Keymaps"
     ],
     "contributes": {
+        "themes": [
+            {
+                "label": "NewColor",
+                "uiTheme": "hc-black",
+                "path": "./themes/NewColor-color-theme.json"
+            }
+        ],
         "keybindings": [
             {
                 "mac": "cmd+.",
