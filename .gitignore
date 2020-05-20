@@ -1,5 +1,13 @@
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 4175164... first commit
 # Object file
 *.o
 
 # Ada Library Information
+<<<<<<< HEAD
 *.ali
+=======
+*.ali
+>>>>>>> 4175164... first commit

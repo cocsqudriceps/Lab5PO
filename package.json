@@ -1,0 +1,62 @@
+{
+    "name": "lab5po",
+    "displayName": "Lab5PO",
+    "description": "Its a small extension with many features",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Keymaps"
+    ],
+    "contributes": {
+        "keybindings": [
+            {
+                "mac": "cmd+.",
+                "win": "ctrl+.",
+                "key": "ctrl+.",
+                "command": "workbench.action.showCommands"
+            },
+            {
+                "mac": "cmd+'",
+                "win": "ctrl+'",
+                "key": "ctrl+'",
+                "command": "workbench.action.quickOpen"
+            },
+            {
+                "mac": "cmd+3",
+                "win": "ctrl+3",
+                "key": "ctrl+3",
+                "command": "workbench.view.search"
+            },
+            {
+                "mac": "cmd+shift+1",
+                "win": "ctrl+shift+1",
+                "key": "ctrl+shift+1",
+                "command": "editor.action.transformToUppercase",
+                "when": "editorTextFocus"
+            },
+            {
+                "mac": "cmd+shift+2",
+                "win": "ctrl+shift+2",
+                "key": "ctrl+shift+2",
+                "command": "editor.action.transformToLowercase",
+                "when": "editorTextFocus"
+            },
+            {
+                "mac": "alt+left",
+                "win": "ctrl+left",
+                "key": "ctrl+left",
+                "command": "cursorWordPartLeft",
+                "when": "textInputFocus"
+            },
+            {
+                "mac": "alt+Right",
+                "win": "ctrl+Right",
+                "key": "ctrl+Right",
+                "command": "cursorWordPartRight",
+                "when": "textInputFocus"
+            }
+        ]
+    } 
+}
