@@ -26,7 +26,7 @@ Step 4:  Enjoy!
 
 ## Version
 
-Current version 3.0
+Current version 4.0
 
 ## Authors
 
