@@ -1,17 +1,37 @@
-<<<<<<< HEAD
-# Lab5PO
-=======
-# README
-## This is the README for your extension "lab5po"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Lab 5 VS Code Extension 
+Simple extension which allows 3 types of action: keymap, snippets, colortheme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Getting started
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+This simple guide will allow you to use this extension in VS Code
 
-**Enjoy!**
->>>>>>> 4175164... first commit
+### Prerequisites
+
+1. [VS Code] (https://code.visualstudio.com/)
+
+### Installing
+
+Step 1:  Install Visual Studio Code on your machine
+
+Step 2:  Download extension from repository
+
+Step 3:  Open your VS Code extensions folder and drop Lab5PO into it
+
+Step 4:  Enjoy!
+
+## Built with
+
+  * [Visual Studio Code](https://code.visualstudio.com/)
+  * [Yo code](https://code.visualstudio.com/api/get-started/your-first-extension)
+
+## Version
+
+Current version 3.0
+
+## Authors
+
+* **Maxim Gogitidze** - *product owner* - [Cocsqudriceps](https://github.com/cocsqudriceps) 
+* **Nikita Koptelov** - *developer* - [NikitaKop](https://github.com/NikitaKop) 
+* **Andrey Rodin** - *developer* - [SkeletalHunter](https://github.com/SkeletalHunter) 
+* **Valentin Rybalkin** - *tester/formalizer* - [Hinkam](https://github.com/hinkam) 
+
