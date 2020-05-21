@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Lab 5 VS Code Extension 
 Simple extension which allows 3 types of action: keymap, snippets, colortheme
-=======
+
 ## Getting started
 
 This simple guide will allow you to use this extension in VS Code
@@ -22,8 +21,8 @@ Step 4:  Enjoy!
 
 ## Built with
 
-*[Visual Studio Code](https://code.visualstudio.com/)
-*[Yo code](https://code.visualstudio.com/api/get-started/your-first-extension)
+  * [Visual Studio Code](https://code.visualstudio.com/)
+  * [Yo code](https://code.visualstudio.com/api/get-started/your-first-extension)
 
 ## Version
 
